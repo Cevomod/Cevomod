@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Cevomod/Cevomod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Andrej 👋
+**CS Student @ VUT FIT**
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 What I'm Working On
+- 🔭 **Bachelor's Thesis:** Real-time facial emotion recognition (Python, PyTorch, OpenCV)
+- 🐧 **Daily Driver:** Debian + KDE Plasma (and tinkering with Fish shell)
+
+### 🛠️ Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,go,py,ts,java,postgres,redis,docker,linux,git&theme=dark" />
+  </a>
+</p>
+
+### 📊 Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+</p>
