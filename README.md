@@ -14,8 +14,8 @@
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/andrej-domovec-95b54a261/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-1e66f5?style=for-the-badge&logo=linkedin&logoColor=eff1f5"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e"></picture></a>
-  <a href="https://instagram.com/domovec_andrej"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-cba6f7?style=for-the-badge&logo=instagram&logoColor=1e1e2e"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-8839ef?style=for-the-badge&logo=instagram&logoColor=eff1f5"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-cba6f7?style=for-the-badge&logo=instagram&logoColor=1e1e2e"></picture></a>
+  <a href="https://linkedin.com/in/andrej-domovec-95b54a261/"><img src="./in.svg" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/domovec_andrej"><img src="./ig.svg" alt="Instagram" /></a>
 </p>
 
 </div>
