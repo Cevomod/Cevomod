@@ -34,13 +34,13 @@
 ### 📊 Stats
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_mocha&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_latte&hide_border=true">
-    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_mocha&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true">
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_mocha&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_latte&hide_border=true">
-    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_mocha&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_mocha&hide_border=true&hide=cpp,makefile,cmake&langs_count=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_latte&hide_border=true&hide=cpp,makefile,cmake&langs_count=6">
+    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_mocha&hide_border=true&hide=cpp,makefile,cmake&langs_count=6">
   </picture>
 </p>
