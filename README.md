@@ -1,23 +1,14 @@
 <div align="center">
 
-# Hey, I'm Andrej 👋
-**CS Student @ VUT FIT**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=170&section=header&text=Hey%2C%20I'm%20Andrej%20%F0%9F%91%8B&fontSize=42&fontColor=1e1e2e&fontAlignY=38&desc=CS%20Student%20%40%20VUT%20FIT&descSize=18&descAlignY=58">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=8839ef&height=170&section=header&text=Hey%2C%20I'm%20Andrej%20%F0%9F%91%8B&fontSize=42&fontColor=eff1f5&fontAlignY=38&desc=CS%20Student%20%40%20VUT%20FIT&descSize=18&descAlignY=58">
+  <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=170&section=header&text=Hey%2C%20I'm%20Andrej%20%F0%9F%91%8B&fontSize=42&fontColor=1e1e2e&fontAlignY=38&desc=CS%20Student%20%40%20VUT%20FIT&descSize=18&descAlignY=58">
+</picture>
 
 <p>
-  <a href="https://linkedin.com/in/andrej-domovec-95b54a261/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-eff1f5?style=for-the-badge&logo=linkedin&logoColor=1e66f5">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa">
-    </picture>
-  </a>
-  <a href="https://instagram.com/domovec_andrej">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=f5c2e7">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-eff1f5?style=for-the-badge&logo=instagram&logoColor=ea76cb">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=f5c2e7">
-    </picture>
-  </a>
+  <a href="https://linkedin.com/in/andrej-domovec-95b54a261/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-1e66f5?style=for-the-badge&logo=linkedin&logoColor=eff1f5"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e"></picture></a>
+  <a href="https://instagram.com/domovec_andrej"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-cba6f7?style=for-the-badge&logo=instagram&logoColor=1e1e2e"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-8839ef?style=for-the-badge&logo=instagram&logoColor=eff1f5"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-cba6f7?style=for-the-badge&logo=instagram&logoColor=1e1e2e"></picture></a>
 </p>
 
 </div>
@@ -52,3 +43,4 @@
     <img height="165" alt="Top Languages" src="https://github-readme-stats-silk-theta-41.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_mocha&hide_border=true&hide=cpp%2Cmakefile%2Ccmake&langs_count=6">
   </picture>
 </p>
+
