@@ -1,14 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=170&section=header&text=Hey%2C%20I'm%20Andrej%20%F0%9F%91%8B&fontSize=42&fontColor=1e1e2e&fontAlignY=38&desc=CS%20Student%20%40%20VUT%20FIT&descSize=18&descAlignY=58">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=8839ef&height=170&section=header&text=Hey%2C%20I'm%20Andrej%20%F0%9F%91%8B&fontSize=42&fontColor=eff1f5&fontAlignY=38&desc=CS%20Student%20%40%20VUT%20FIT&descSize=18&descAlignY=58">
-  <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=170&section=header&text=Hey%2C%20I'm%20Andrej%20%F0%9F%91%8B&fontSize=42&fontColor=1e1e2e&fontAlignY=38&desc=CS%20Student%20%40%20VUT%20FIT&descSize=18&descAlignY=58">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=150&section=header&text=Hey%2C%20I'm%20Andrej%20%F0%9F%91%8B&fontSize=42&fontColor=1e1e2e&fontAlignY=45">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=8839ef&height=150&section=header&text=Hey%2C%20I'm%20Andrej%20%F0%9F%91%8B&fontSize=42&fontColor=eff1f5&fontAlignY=45">
+  <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=150&section=header&text=Hey%2C%20I'm%20Andrej%20%F0%9F%91%8B&fontSize=42&fontColor=1e1e2e&fontAlignY=45">
 </picture>
 
 <p>
-  <a href="https://linkedin.com/in/andrej-domovec-95b54a261/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-1e66f5?style=for-the-badge&logo=linkedin&logoColor=eff1f5"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e"></picture></a>
-  <a href="https://instagram.com/domovec_andrej"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-cba6f7?style=for-the-badge&logo=instagram&logoColor=1e1e2e"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-8839ef?style=for-the-badge&logo=instagram&logoColor=eff1f5"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-cba6f7?style=for-the-badge&logo=instagram&logoColor=1e1e2e"></picture></a>
+  <strong>Studying @</strong>
+  <a href="https://www.fit.vut.cz">
+    <img src="./logo.svg" height="26" align="absmiddle" alt="VUT FIT" />
+  </a>
 </p>
 
 </div>
