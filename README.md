@@ -7,6 +7,10 @@
   <a href="https://linkedin.com/in/andrej-domovec-95b54a261/">
     <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa" />
   </a>
+  
+  <a href="https://instagram.com/domovec_andrej">
+    <img src="https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=f5c2e7" />
+  </a>
 </p>
 
 </div>
