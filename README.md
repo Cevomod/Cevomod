@@ -3,6 +3,12 @@
 # Hey, I'm Andrej 👋
 **CS Student @ VUT FIT**
 
+<p>
+  <a href="https://linkedin.com/in/andrej-domovec-95b54a261/">
+    <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa" />
+  </a>
+</p>
+
 </div>
 
 ---
