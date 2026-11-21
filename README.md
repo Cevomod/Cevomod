@@ -29,18 +29,26 @@
 - 🐧 **Daily Driver:** Debian + KDE Plasma (and tinkering with Fish shell)
 
 ### 🛠️ Stack & Tools
-[![Tech Stack](https://skillicons.dev/icons?i=c,go,py,ts,java,postgres,redis,docker,linux,git&theme=dark)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Cgo%2Cpy%2Cts%2Cjava%2Cpostgres%2Credis%2Cdocker%2Clinux%2Cgit&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Cgo%2Cpy%2Cts%2Cjava%2Cpostgres%2Credis%2Cdocker%2Clinux%2Cgit&theme=light">
+      <img alt="Tech Stack" src="https://skillicons.dev/icons?i=c%2Cgo%2Cpy%2Cts%2Cjava%2Cpostgres%2Credis%2Cdocker%2Clinux%2Cgit&theme=dark">
+    </picture>
+  </a>
+</p>
 
 ### 📊 Stats
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true">
-    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-silk-theta-41.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-silk-theta-41.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true">
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats-silk-theta-41.vercel.app/api?username=Cevomod&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_mocha&hide_border=true&hide=cpp,makefile,cmake&langs_count=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_latte&hide_border=true&hide=cpp,makefile,cmake&langs_count=6">
-    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_mocha&hide_border=true&hide=cpp,makefile,cmake&langs_count=6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-silk-theta-41.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_mocha&hide_border=true&hide=cpp%2Cmakefile%2Ccmake&langs_count=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-silk-theta-41.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_latte&hide_border=true&hide=cpp%2Cmakefile%2Ccmake&langs_count=6">
+    <img height="165" alt="Top Languages" src="https://github-readme-stats-silk-theta-41.vercel.app/api/top-langs/?username=Cevomod&layout=compact&theme=catppuccin_mocha&hide_border=true&hide=cpp%2Cmakefile%2Ccmake&langs_count=6">
   </picture>
 </p>
